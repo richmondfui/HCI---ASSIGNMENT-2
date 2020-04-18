@@ -1,4 +1,4 @@
-## HCI LOGIN PAGE ASSIGNMENT
+<h1 align="center">HCI LOGIN PAGE ASSIGNMENT</h1>
 <hr />
 
 + Student Name: Kportufe Richmond Fui

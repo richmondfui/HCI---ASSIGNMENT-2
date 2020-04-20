@@ -30,8 +30,7 @@ if (isset($_POST['login'])) {
 
 
                 if ($db_user_password === $user_password) {
-                    echo "You have been successfuly logged in!";
-                    exit();
+                    header('Location: home.php');
                 } else {
                     echo "Your password is incorrect!";
                     exit();

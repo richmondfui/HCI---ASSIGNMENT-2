@@ -5,4 +5,7 @@
 + Student ID: 218EI11006195
 + Course: Human Computer Interaction
 
-![Login Image](login-page.jpg "Login Page") <br />
+<div align="center">
+    <img height="450" width="650" src="loginpage.png">
+    <img height="450" width="650" src="home.png">
+</div>
